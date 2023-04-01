@@ -6,3 +6,4 @@ export default defineConfig({
   base: "https://Manrique17.github.io/gh-react-vite/",
   plugins: [react()],
 })
+    
